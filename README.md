@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 
-- 🔭 I’m Interested in **Machine Learning and Web Development**
+- 🔭 I’m Interested in ** Web Development**
 
 - 🌱 I’m currently learning **Machine learning and Flask**
 
