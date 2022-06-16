@@ -4,7 +4,7 @@
 
 - 🔭 I’m Interested in **Web Development**
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **Java Spring Framework**
 
 - 📫 How to reach me **prmane03@gmail.com**
 
