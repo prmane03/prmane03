@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Mane</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-
-- 🔭 I’m Interested in **Web Development**
-
-- 🌱 I’m currently learning **Java Spring Framework**
+<h3>About Me :</h3> Experienced software engineer in Spring Boot and Angular development, delivering robust backend APIs and dynamic frontend solutions. Proven track record in code optimization and collaboration, ensuring the creation of high-quality code.
 
 - 📫 How to reach me **prmane03@gmail.com**
 
